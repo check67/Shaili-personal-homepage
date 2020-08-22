@@ -1,60 +1,51 @@
 {
-	"Title": "Tony Stark | Personal Webpage",
-	"Name": "Tony Stark",
+	"Title": "Shaili Parikh | Personal Webpage",
+	"Name": "Shaili Parikh",
 	"Description": [
-		"Iron Man is a fictional superhero appearing in American comic books published by Marvel Comics.", 
-		"The character was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby"
+		"Student at BITS Pilani K.K. Birla Goa Campus", 
+		"Avid reader, learner, book reviewer, and indie rock enthusiast"
 	],
-	"MainImage": "https://i.imgur.com/CdQNXlZ.jpg",
+	"MainImage": "https://i.imgur.com/UXlzhEp.jpg",
 	"BackgroundURL": "https://i.imgur.com/5t3moIZ.jpg",
 
 	"WorkContent": [
-		"I am currently full time saviour of Earth."
+		"I am currently a student."
 	],
-	"WorkImage": "https://i.imgur.com/1QRDBCz.png",
+	"WorkImage": "",
 
-	"AboutImage": "https://i.imgur.com/mwtsqBG.jpg",
+	"AboutImage": "",
 	"AboutContent": [
-		"I am a billionaire industrialist and inventor. Former CEO of Stark Industries, a conglomerate originally started by my father, Howard Stark.",
-		"I am still human, with the exception of an Arc Reactor in my chest.",
-		"In order to stop Thanos once and for all, I sacrificed myself to use the Infinity Stones to disintegrate the Mad Titan and his army"
+		"Add About Later"
 	],
 
 	"InternshipsStartLine": "Previously, I have worked with :",
 	"InternShips": [{
-			"name": "Avengers",
-			"link": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)"
+			"name": "Edelweiss Broking Ltd",
+			"link": "https://www.edelweiss.in/"
 		},
 		{
-			"name": "S.H.I.E.L.D.",
-			"link": "https://en.wikipedia.org/wiki/S.H.I.E.L.D."
-		},
-		{
-			"name": "Marvel",
-			"link": "www.marvel.com"
+			"name": "Finnacle Coaching Academy",
+			"link": "https://finnacle.co.in/"
 		}
 	],
-	"ProjectsStartLine": "Some of my hobby bots are  :",
+	"ProjectsStartLine": "Some of my hobbies are  :",
 	"Projects": [{
-			"name": "JARVIS",
-			"link": "https://marvel-movies.fandom.com/wiki/Just_A_Rather_Very_Intelligent_System"
-		},
-		{
-			"name": "FRIDAY",
-			"link": "https://marvelcinematicuniverse.fandom.com/wiki/F.R.I.D.A.Y."
+			"name": "Reviewing Books",
+			"link": "https://www.goodreads.com/user/show/49004320-shaili"
 		}
 	],
 
-	"CVStartLine": "I am always open to collaborations involving saving the world. Feel free to reach out if you want to work at Stark :)",
-	"CV": "https://marvel-movies.fandom.com/wiki/Anthony_Stark",
-	"Resume": "https://i.imgur.com/FtXmj.jpg",
+	"CVStartLine": "I am always open to collaborations that involve doing some good and picking up cool skills",
+	"CV": "",
+	"Resume": "",
 
-	"emailid": "mailto:tony@starkindustries.com",
+	"emailid": "",
 	"linkedin": "",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/RobertDowneyJr",
-	"medium": "https://medium.com/@ketkaraditya"
+	"wordpress": "",
+	"facebook": "",
+	"github": "",
+	"instagram": "",
+	"twitter": "",
+	"medium": "",
+	"upwork": ""
 }
